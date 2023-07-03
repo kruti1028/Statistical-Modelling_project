@@ -1,0 +1,6 @@
+name,latitude_x,longitude_x,latitude_y,longitude_y,slots,empty_slots,free_bikes,yelp_rating,yelp_review
+Richmond Station,43.665269,-79.319796,43.6513729,-79.379285,19,16,3,4.5,892
+Sap,43.67142,-79.445947,43.651946,-79.381114,15,8,7,3.5,549
+Pai Northern Thai Kitchen,43.666224,-79.317693,43.64784,-79.38872,23,21,2,4.5,3419
+The Keg Steakhouse + Bar - York Street,43.653236,-79.376716,43.650011481693866,-79.38395891300931,25,25,0,4.0,305
+Eggspectation,43.663722,-79.380288,43.6532721,-79.3812455,15,8,7,4.0,768
