@@ -4,11 +4,11 @@ In this project, I examine the locations and capacities of the Bixi bike-share s
 ## Project/Goals
 I extracted data about each bike station from the City Bike API. Specifically, I obtained information such as the station location, name, and the total number of bike slots available.
 
-Subsequently, I analyzed the categories available from the Yelp and Foursquare APIs to identify the types of Points of Interest (POIs) that were likely to impact bike traffic. Based on my analysis, I selected all the restaurants situated in Toronto, Ontario.
+Subsequently, I analyzed the categories available from the Yelp and Foursquare APIs to identify the types of Points of Interest (POIs) that were likely to impact bike traffic. Based on my analysis, I selected categories of drink and dining which is situated in Toronto, Ontario.
 Using the Foursquare and Yelp APIs, I retrieved data for these POIs within a 1000-meter radius of each bike station. After retrieving the data, I performed data cleaning to remove duplicates. 
 For every bike station, I calculated the total count for each category as well as the overall count across all types. To facilitate understanding and analysis, I generated graphical representations of this data. Additionally, I developed a statistical model.
 
-The data sources I utilized for this analysis include: CityBikes, FourSquare, Yelp
+The data sources I utilized for this analysis include: https://citybik.es/, FourSquare, Yelp
 
 
 ## Results
