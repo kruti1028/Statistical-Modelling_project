@@ -8,7 +8,7 @@ Subsequently, I analyzed the categories available from the Yelp and Foursquare A
 Using the Foursquare and Yelp APIs, I retrieved data for these POIs within a 1000-meter radius of each bike station. After retrieving the data, I performed data cleaning to remove duplicates. 
 For every bike station, I calculated the total count for each category as well as the overall count across all types. To facilitate understanding and analysis, I generated graphical representations of this data. Additionally, I developed a statistical model.
 
-The data sources I utilized for this analysis include: https://citybik.es/, FourSquare, Yelp
+The data sources I utilized for this analysis include: https://citybik.es/,(https://location.foursquare.com/developer/reference/places-api-overview), Yelp
 
 
 ## Results
